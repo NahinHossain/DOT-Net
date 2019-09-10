@@ -1,0 +1,7 @@
+F:\Batch06\DOT-Net\Addres\Addres\bin\Debug\Addres.exe.config
+F:\Batch06\DOT-Net\Addres\Addres\bin\Debug\Addres.exe
+F:\Batch06\DOT-Net\Addres\Addres\bin\Debug\Addres.pdb
+F:\Batch06\DOT-Net\Addres\Addres\obj\Debug\Addres.csprojAssemblyReference.cache
+F:\Batch06\DOT-Net\Addres\Addres\obj\Debug\Addres.csproj.CoreCompileInputs.cache
+F:\Batch06\DOT-Net\Addres\Addres\obj\Debug\Addres.exe
+F:\Batch06\DOT-Net\Addres\Addres\obj\Debug\Addres.pdb
